@@ -1,0 +1,54 @@
+{
+  "apim-request-id": "b31d6c33-f204-42bf-ac47-ec3c8701b7ee",
+  "content-length": "550",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a sandwich cut in half",
+        "confidence": 0.7414528727531433,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 375,
+          "h": 250
+        }
+      },
+      {
+        "text": "a close up of food",
+        "confidence": 0.7410863637924194,
+        "boundingBox": {
+          "x": 10,
+          "y": 4,
+          "w": 353,
+          "h": 188
+        }
+      },
+      {
+        "text": "a close up of a sandwich",
+        "confidence": 0.8612459897994995,
+        "boundingBox": {
+          "x": 16,
+          "y": 59,
+          "w": 198,
+          "h": 133
+        }
+      },
+      {
+        "text": "a close up of a brown object",
+        "confidence": 0.7492229342460632,
+        "boundingBox": {
+          "x": 268,
+          "y": 0,
+          "w": 105,
+          "h": 92
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
