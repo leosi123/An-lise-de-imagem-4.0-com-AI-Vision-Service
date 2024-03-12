@@ -1,0 +1,42 @@
+{
+  "apim-request-id": "ca775431-5ae3-4b14-bd8f-843eea6c1db6",
+  "content-length": "291",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 600,
+    "height": 462
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 238,
+          "y": 298,
+          "w": 177,
+          "h": 117
+        },
+        "tags": [
+          {
+            "name": "Skateboard",
+            "confidence": 0.904
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 118,
+          "y": 62,
+          "w": 305,
+          "h": 321
+        },
+        "tags": [
+          {
+            "name": "person",
+            "confidence": 0.955
+          }
+        ]
+      }
+    ]
+  }
+}
