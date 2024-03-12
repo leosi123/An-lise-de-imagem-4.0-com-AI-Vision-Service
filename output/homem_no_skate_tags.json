@@ -1,0 +1,130 @@
+{
+  "apim-request-id": "f6f98789-d60f-4b01-939e-3f4f8bf95173",
+  "content-length": "1630",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 600,
+    "height": 462
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "sport",
+        "confidence": 0.9960036277770996
+      },
+      {
+        "name": "person",
+        "confidence": 0.9956303834915161
+      },
+      {
+        "name": "footwear",
+        "confidence": 0.9805130958557129
+      },
+      {
+        "name": "skating",
+        "confidence": 0.9626708626747131
+      },
+      {
+        "name": "boardsport",
+        "confidence": 0.9558324813842773
+      },
+      {
+        "name": "skateboarding equipment",
+        "confidence": 0.9443185329437256
+      },
+      {
+        "name": "clothing",
+        "confidence": 0.9402167201042175
+      },
+      {
+        "name": "wall",
+        "confidence": 0.9380939602851868
+      },
+      {
+        "name": "skateboarding",
+        "confidence": 0.9377670884132385
+      },
+      {
+        "name": "skateboarder",
+        "confidence": 0.9324735403060913
+      },
+      {
+        "name": "individual sports",
+        "confidence": 0.9279683828353882
+      },
+      {
+        "name": "street stunts",
+        "confidence": 0.9080973863601685
+      },
+      {
+        "name": "balance",
+        "confidence": 0.9080790877342224
+      },
+      {
+        "name": "jumping",
+        "confidence": 0.8986567854881287
+      },
+      {
+        "name": "sports equipment",
+        "confidence": 0.886122465133667
+      },
+      {
+        "name": "extreme sport",
+        "confidence": 0.8834718465805054
+      },
+      {
+        "name": "kickflip",
+        "confidence": 0.881808876991272
+      },
+      {
+        "name": "stunt",
+        "confidence": 0.8726743459701538
+      },
+      {
+        "name": "skateboard",
+        "confidence": 0.8686941862106323
+      },
+      {
+        "name": "stunt performer",
+        "confidence": 0.8583044409751892
+      },
+      {
+        "name": "knee",
+        "confidence": 0.8530381917953491
+      },
+      {
+        "name": "sports",
+        "confidence": 0.8524001836776733
+      },
+      {
+        "name": "longboard",
+        "confidence": 0.846148669719696
+      },
+      {
+        "name": "longboarding",
+        "confidence": 0.8444970846176147
+      },
+      {
+        "name": "riding",
+        "confidence": 0.7336926460266113
+      },
+      {
+        "name": "skate",
+        "confidence": 0.6727208495140076
+      },
+      {
+        "name": "air",
+        "confidence": 0.6483249068260193
+      },
+      {
+        "name": "young",
+        "confidence": 0.6328899264335632
+      },
+      {
+        "name": "outdoor",
+        "confidence": 0.6139291524887085
+      }
+    ]
+  }
+}
