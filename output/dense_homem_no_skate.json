@@ -1,0 +1,84 @@
+{
+  "apim-request-id": "7453eb2b-b078-4ab1-be3c-a4a33210a81c",
+  "content-length": "927",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "denseCaptionsResult": {
+    "values": [
+      {
+        "text": "a man jumping on a skateboard",
+        "confidence": 0.8387800455093384,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 375,
+          "h": 250
+        }
+      },
+      {
+        "text": "a man jumping on a skateboard",
+        "confidence": 0.841259777545929,
+        "boundingBox": {
+          "x": 93,
+          "y": 25,
+          "w": 162,
+          "h": 180
+        }
+      },
+      {
+        "text": "a person riding a skateboard",
+        "confidence": 0.8115212917327881,
+        "boundingBox": {
+          "x": 159,
+          "y": 144,
+          "w": 88,
+          "h": 61
+        }
+      },
+      {
+        "text": "a person jumping on a skateboard",
+        "confidence": 0.810514509677887,
+        "boundingBox": {
+          "x": 149,
+          "y": 85,
+          "w": 91,
+          "h": 94
+        }
+      },
+      {
+        "text": "a man jumping on a skateboard",
+        "confidence": 0.842188835144043,
+        "boundingBox": {
+          "x": 0,
+          "y": 0,
+          "w": 368,
+          "h": 238
+        }
+      },
+      {
+        "text": "a man in a striped shirt",
+        "confidence": 0.8289464712142944,
+        "boundingBox": {
+          "x": 142,
+          "y": 45,
+          "w": 81,
+          "h": 55
+        }
+      },
+      {
+        "text": "a person jumping on a skateboard",
+        "confidence": 0.8376482725143433,
+        "boundingBox": {
+          "x": 107,
+          "y": 75,
+          "w": 176,
+          "h": 169
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "width": 375,
+    "height": 250
+  }
+}
