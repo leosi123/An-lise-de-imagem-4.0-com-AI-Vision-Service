@@ -2,11 +2,12 @@
 Resposta ao desafio DIO
 
 ## Passo a passo Análise de imagens
-<li>Primeiro é necessário criar o recusro azure AI services e vinculá-lo a uma subscrição e um grupo de recurso.
-<li>Em seguida, é necessário conectar o azure AI services ao Vision Studio. Para isso é necessário entrar no site do vision estudio, com o primeiro passo já concluído, com a mesma conta e selecionar o recurso que acabou de criar como padrão.
-<li>Agora, ir no site do vision studio, na aba de analise de imagem escolher adicionar descrições às imagens.
-<li>Em seguida, testar fotos diferentes em e analisar as descrições dadas</li>
-<li>Utilizei algumas selfies e as imagens de exemplos</li>
+<li>1-Primeiro é necessário criar o recusro azure AI services e vinculá-lo a uma subscrição e um grupo de recurso.
+<li>2-Em seguida, é necessário conectar o azure AI services ao Vision Studio. Para isso é necessário entrar no site do vision estudio, com o primeiro passo já concluído, com a mesma conta e selecionar o recurso que acabou de criar como padrão.
+<li>3-Agora, ir no site do vision studio, na aba de analise de imagem escolher adicionar descrições às imagens.
+<li>4-Em seguida, testar fotos diferentes em e analisar as descrições dadas</li>
+<li>5-Utilizei algumas selfies e as imagens de exemplos</li>
+<li>6-Utilizei as mesmas imagens para a captura de descrições densas de imagens para ver a diferença</li>
 
 ### Insights
 Creio que o maior ganho hoje nesse sentido seja na questão de acessibilidade, porém existem inumeras aplicações interessantes para descrições de imagem, como por exemplo:
@@ -16,4 +17,6 @@ Creio que o maior ganho hoje nesse sentido seja na questão de acessibilidade, p
 
 <li>Assistência Médica: Sistemas de IA podem auxiliar médicos na interpretação de imagens médicas, como radiografias, ressonâncias magnéticas e tomografias computadorizadas, fornecendo descrições detalhadas das características observadas.
 
-## Passo a passo Análise de imagens
+## Passo a passo Extração de texto de imagens
+1-Repetir os passos 1 e 2 da análise de imagens
+2-Escolher a aba de 
