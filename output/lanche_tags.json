@@ -1,0 +1,78 @@
+{
+  "apim-request-id": "e51d7e06-5317-4419-ab1a-b300437c7063",
+  "content-length": "913",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 375,
+    "height": 250
+  },
+  "tagsResult": {
+    "values": [
+      {
+        "name": "food",
+        "confidence": 0.9975762367248535
+      },
+      {
+        "name": "snack food",
+        "confidence": 0.9758655428886414
+      },
+      {
+        "name": "fast food",
+        "confidence": 0.9750183820724487
+      },
+      {
+        "name": "sandwich",
+        "confidence": 0.9670549631118774
+      },
+      {
+        "name": "bread",
+        "confidence": 0.9609380960464478
+      },
+      {
+        "name": "baked goods",
+        "confidence": 0.9332400560379028
+      },
+      {
+        "name": "snack",
+        "confidence": 0.9131704568862915
+      },
+      {
+        "name": "american food",
+        "confidence": 0.9061697721481323
+      },
+      {
+        "name": "gluten",
+        "confidence": 0.8975319862365723
+      },
+      {
+        "name": "melt sandwich",
+        "confidence": 0.8805145025253296
+      },
+      {
+        "name": "indoor",
+        "confidence": 0.878638505935669
+      },
+      {
+        "name": "patty melt",
+        "confidence": 0.8704039454460144
+      },
+      {
+        "name": "half",
+        "confidence": 0.6988164186477661
+      },
+      {
+        "name": "cut",
+        "confidence": 0.6850855350494385
+      },
+      {
+        "name": "cheese",
+        "confidence": 0.6139050722122192
+      },
+      {
+        "name": "meat",
+        "confidence": 0.5375576615333557
+      }
+    ]
+  }
+}
