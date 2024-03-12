@@ -1,0 +1,42 @@
+{
+  "apim-request-id": "fea87763-1615-4d95-b820-bf3d1f05b7a4",
+  "content-length": "285",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 375,
+    "height": 250
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 153,
+          "y": 14,
+          "w": 218,
+          "h": 177
+        },
+        "tags": [
+          {
+            "name": "Sandwich",
+            "confidence": 0.553
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 20,
+          "y": 54,
+          "w": 204,
+          "h": 134
+        },
+        "tags": [
+          {
+            "name": "Food",
+            "confidence": 0.722
+          }
+        ]
+      }
+    ]
+  }
+}
