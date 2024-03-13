@@ -32,4 +32,6 @@ Creio que o maior ganho hoje nesse sentido seja na questão de acessibilidade, p
 
 ## Passo a passo Extração de texto de imagens
 1-Repetir os passos 1 e 2 da análise de imagens
-2-Escolher a aba de 
+2-Escolher a aba de extrair texto de imagens
+3-Escolher imagens com texto para que sejam extraídas e avaliadas
+4-Imagens avaliadas e seus textos estão nas pastas inputs e output, respectivamente.
