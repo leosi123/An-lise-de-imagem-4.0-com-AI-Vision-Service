@@ -31,7 +31,14 @@ Creio que o maior ganho hoje nesse sentido seja na questão de acessibilidade, p
 <li>Turismo e Navegação: Aplicativos de turismo e navegação podem utilizar IA para descrever pontos turísticos e locais com base em imagens, fornecendo informações úteis aos usuários durante suas viagens.
 
 ## Passo a passo Extração de texto de imagens
-1-Repetir os passos 1 e 2 da análise de imagens
-2-Escolher a aba de extrair texto de imagens
-3-Escolher imagens com texto para que sejam extraídas e avaliadas
-4-Imagens avaliadas e seus textos estão nas pastas inputs e output, respectivamente.
+<li>1-Repetir os passos 1 e 2 da análise de imagens
+<li>2-Escolher a aba de extrair texto de imagens
+<li>3-Escolher imagens com texto para que sejam extraídas e avaliadas
+<li>4-Imagens avaliadas e seus textos estão nas pastas inputs e output, respectivamente.
+
+## Passo a passo Detecção facial
+
+<li>1-Repetir os passos 1 e 2 da análise de imagens
+<li>2-Escolher a aba de face e clicar em detecção de faces na imagem
+<li>3-Escolher imagens com rostos para que sejam extraídas e avaliadas
+<li>4-Imagens avaliadas e seus textos de saída estão nas pastas inputs e output, respectivamente.
